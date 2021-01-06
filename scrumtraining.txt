@@ -1,0 +1,128 @@
+Scrumtraining 6-1-2021: (David Beute)
+
+Dagindeling:
+
+In ons devops team worden de meeste taken in de sprint aangebracht door de ontwikkelaars.
+De technische complexiteit van de items in de sprint, is voor de PO moeilijk om het begrijpen.
+
+Boektip:
+Het tijdperk van Agile,  Stephen denning
+
+
+De rol van PO:
+Geen projectleider!! Is onderdeel van het team. Inspireert en verbindt het team.
+
+
+(vragen)
+Tickets in de backlog:
+Beschrijving van de Taken in de Backlog. Bij ons vaak heel technisch. Voor de PO soms niet te begrijpen.
+Als we de beschrijving versimpelen, wordt het voor ontwikkelaars niet duidelijk wat er moet worden gebouwd.
+
+
+
+
+
+(aantekeningen)
+Imperische proces (aanpassen)
+Scrum is founded on empiricism and lean thinking. 
+Empiricism asserts that knowledge comes from experience and making decisions based on what is observed.
+Als team ben je ook stakeholder van de backlog.
+
+Scrum framework (a tool, hulp) om waarde te creeeren voor de klant voor complexe problemen.
+
+Scrum Theory
+transparantie -> inspecteren -> Aanpassen
+
+Scrum Values
+Successful use of Scrum depends on people becoming more proficient in living five values:
+Commitment, Focus, Openness, Respect, and Courage
+
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, 
+typically 10 or fewer people.
+
+2020 verschillen:
+zelf organisatie -> zelf management
+product goal is uiteindelijke doel, sprint doelen zijn subonderdeel hiervan.
+Scrummaster ook extern verantwoordelijk voor verandering in de organisatie.
+
+
+PO en Scrummaster zijn management rol.
+Scrummaster heeft als taak om inpedements te verwijderen.
+Organisatie moet de besluiten van de PO te respecteren.
+
+Sprint backlog -> resulteert in de sprint goal.
+-------------------------------
+5 scrum events:
+daily
+retrospective
+sprint review
+sprint planning
+sprint
+
+Refinement on going process. Vaak onderdeel sprint review
+
+Retrospective na verloop van tijd (liefst voor het weekend) (1 week -> 1uur) (4 weken -> 4 uur)
+
+examen vraag
+Hoe lang het per event mag kosten qua tijd.
+Wie heeft waar mandaat in.
+
+Return on investment -> PO ook onderdeel van het team, dus ook eigenaar van de techniek.
+
+Sprintreview
+Meer dan alleen een demo. Timebox max 4 uur voor 4 weken.
+
+Retrospective
+Geen verantwoording afdwingen.
+
+Bovenstroom vs onderstroom
+Bovenstroom het zichtbare
+Onderstroom het onderbewuste. (Gevoelens, normen en waarden)
+
+conmitment vs forecast:
+Conmitment: wat ga je doen.
+
+Maar je weet het niet zeker over alles wat je gaat tegenkomen.
+
+Forecast: Het is de bedoeling dat we dit gaat doen maar hou rekening met dingen die je niet heb meegerekend.
+
+Een PO hoeft niet via sprint review een increment naar productie te brengen.
+
+Definition of Done: ook bewaken van de op te leveren kwaliteit.
+
+exmanen test.
+Rol van productmanager??
+
+Size of a scrum team: 3 -9
+
+scrum 2017 vs 2020
+- 18 naar 13 pagina's
+4. Meer commitments
+5. Zelf managing boven, zelf organisatie. Wie heb je nodig in het team, wat heb je nodig. Waar ga je aan werken.
+6. Waarom (is nieuw) gaan iets doen, hoe gaan we het realiseren, wat gaan we doen.
+7. Versimpelen van taal en woordkeuze. Ook voor niet it-organisaties.
+
+Examen vraag voor anderen:
+Welke volgende woorden moeten worden ingevuld in de onderstaande zinnen?
+The ..... Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. 
+The ....... Goal is in the Product Backlog. 
+The rest of the Product Backlog emerges to define “what” will fulfill the ..... Goal.
+
+A) product, product, sprint
+B) Sprint, product, sprint
+C) product, sprint, product
+D) Alle bovenstaande antwoorden zijn fout
+
+COP, Community of practice
+Scrummasters onderling sparren.
+
+Tips voor de retrospective:
+onderstroom:
+Wat zijn de ambities, wat wil je bereiken, hoe ziet de ideaale kantoor eruit.
+
+GROK!
+spel voor geweldloos communiceren.
+
+
+
+
